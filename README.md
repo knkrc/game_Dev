@@ -2,11 +2,8 @@
 About me
 ### Hi there, I'm [Kaan]! 👋
 
-<a href="https://www.linkedin.com/in/kullaniciadin/">
+<a href="https://www.linkedin.com/in/kaan-karaca-452233286/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://kullaniciadin.itch.io/">
-  <img align="left" alt="Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itchdotio.svg" />
 </a>
 <br />
 <br />
@@ -29,7 +26,6 @@ I'm an aspiring game developer from Turkey, passionate about creating fun and im
   <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
 ---
@@ -43,5 +39,3 @@ I'm an aspiring game developer from Turkey, passionate about creating fun and im
 **[Projenin Adı]**
 
 *A short description of your awesome game!*
-
-![GIF of your game](LINK_TO_YOUR_GIF)
