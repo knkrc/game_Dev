@@ -1,12 +1,12 @@
 # game_Dev
 About me
-### Hi there, I'm [Kaan]! 👋
+### Hi there, I'm Kaan! 👋
 
 <a href="https://www.linkedin.com/in/kaan-karaca-452233286/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br />
-<br />
+<br/>
+<br/>
 
 I'm an aspiring game developer from Turkey, passionate about creating fun and immersive worlds with Unity. I love turning complex ideas into playable realities.
 
@@ -31,11 +31,6 @@ I'm an aspiring game developer from Turkey, passionate about creating fun and im
 ---
 
 **📈 My GitHub Stats:**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SENIN-KULLANICI-ADIN&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
----
-*My favorite project so far:*
-
-**[Projenin Adı]**
-
-*A short description of your awesome game!*
+<br/>
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knkrc&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
